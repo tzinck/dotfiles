@@ -9,4 +9,7 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
+alias lsg='ls -al | grep'
+
 alias meme='fortune | cowsay | lolcat'
+
