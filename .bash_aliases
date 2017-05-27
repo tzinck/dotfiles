@@ -10,6 +10,8 @@ alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
 alias lsg='ls -al | grep'
+alias nacc='xset m 0/1 4'
 
 alias meme='fortune | cowsay | lolcat'
 
+alias s440='ssh tzinck@ugls.ece.uvic.ca'
