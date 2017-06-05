@@ -9,9 +9,12 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
+alias 499app='cd ~/AndroidStudioProjects/Android/'
+
 alias lsg='ls -al | grep'
 alias nacc='xset m 0/1 4'
 
 alias meme='fortune | cowsay | lolcat'
 
 alias s440='ssh tzinck@ugls.ece.uvic.ca'
+
