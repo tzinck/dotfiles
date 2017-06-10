@@ -18,3 +18,4 @@ alias meme='fortune | cowsay | lolcat'
 
 alias s440='ssh tzinck@ugls.ece.uvic.ca'
 
+alias andb='psql -h localhost -U tanner -d antidose'
