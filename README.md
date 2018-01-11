@@ -1,7 +1,7 @@
 # dotfiles
 Dotfiles with some configuration changes for use on various machines.
 
-###to install:
+### to install:
 checkout repo to ~/.dotfiles
 
 create symlinks to the new files
