@@ -116,3 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+export GOPATH=$HOME/go
+
