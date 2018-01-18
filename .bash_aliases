@@ -10,6 +10,7 @@ alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
 alias 499app='cd ~/AndroidStudioProjects/Android/'
+alias moon='cd ~/go/src/github.com/moonshot-trading'
 
 alias lsg='ls -al | grep'
 alias nacc='xset m 0/1 4'
